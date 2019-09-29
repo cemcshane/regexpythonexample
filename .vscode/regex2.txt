@@ -1,0 +1,1 @@
+\b[A-Za-z]*[aeiou]{3}[A-Za-z]*\b
