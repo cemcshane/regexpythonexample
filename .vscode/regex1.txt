@@ -1,1 +1,1 @@
-\bhello world\b
+hello world
